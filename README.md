@@ -4,7 +4,7 @@
 
 <div align="center">
   <strong>:computer::high_brightness::high_brightness::high_brightness::high_brightness::high_brightness::high_brightness::high_brightness::high_brightness::crescent_moon::crescent_moon::crescent_moon::crescent_moon::house::sleeping:</strong><br><br>
-  计算机安全应急响应工具集合 - Computer Security Incident Response Tool<br>
+  计算机安全应急响应工具集 - Computer Security Incident Response Tool<br>
   <sub>目前整合工具主要适用  Windows。</sub>
 </div>
 
