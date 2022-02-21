@@ -99,5 +99,5 @@
 
 ## 致谢
 
-- Logo引用：https://www.iconfont.cn/illustrations/detail?cid=34495
-- README.md格式：https://github.com/marktext/marktext
+- Logo：https://www.iconfont.cn/illustrations/detail?cid=34495
+- README.md参考格式：https://github.com/marktext/marktext
